@@ -1,12 +1,7 @@
 ## 안녕하세요👋 이길원의 Git Hub에 오신걸 환영합니다!
 
 ## 🔭 사용 가능 툴 🔭
-<img alt="arduino" src ="https://img.shields.io/badge/Arduino-00979D?style=flat-for-the-badge&logo=Arduino&logoColor=white"/>
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/#00979D?style=for-the-badge&logo=arduino&logoColor=black">
- <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
 
 <!--
 **ROADwon/ROADwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
