@@ -5,7 +5,7 @@
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/#00979D?style=for-the-badge&logo=arduino&logoColor=black">
 
 
 <!--
