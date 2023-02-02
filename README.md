@@ -2,7 +2,7 @@
 
 ## 🔭 사용 가능 툴 🔭
 <img alt="arduino" src ="https://img.shields.io/badge/Arduino-00979D?style=flat-for-the-badge&logo=Arduino&logoColor=white"/>
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/#00979D?style=for-the-badge&logo=arduino&logoColor=black">
