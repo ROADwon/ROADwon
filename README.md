@@ -12,5 +12,6 @@
 </div>
 
 > Goorm에서 배웠던 것들 보러가기[🔖](https://github.com/ROADwon/Goorm_AI)
- > KT Aivle School AI Track에서 배웠던 것들 보러가기[🔖](https://github.com/ROADwon/Aivle_3rd)
+> 
+> KT Aivle School AI Track에서 배웠던 것들 보러가기[🔖](https://github.com/ROADwon/Aivle_3rd)
 
