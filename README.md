@@ -11,8 +11,4 @@
   
 <a href="https://github.com/ROADwon/Goorm_AI" target="_blank"><📢 Goorm에서 배웠던 것들 보러가기></a>
 [📢 KT Aivle School AI Track 에서 배웠던 것들 보러가기](https://github.com/ROADwon/Aivle_3rd)
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-
 </div>
