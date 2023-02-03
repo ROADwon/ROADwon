@@ -1,6 +1,6 @@
 <div align="center">
  
-## 안녕하세요:sparkles: 이길원의 Git Hub에 오신걸 환영합니다
+## 안녕하세요:hello: 이길원의 Git Hub에 오신걸 환영합니다
 
  [![길원's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ROADwon&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ROADwon/github-readme-stats#gh-light-mode-only)
  
