@@ -11,7 +11,7 @@
 
 :pencil: 공부하는중이에요
 
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a><a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a><a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a><a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 </div>
 
 > Goorm에서 배웠던 것들 보러가기[🔖](https://github.com/ROADwon/Goorm_AI)  
